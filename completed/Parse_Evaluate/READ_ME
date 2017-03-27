@@ -1,0 +1,5 @@
+To Run:
+make
+./parser
+variable ,when encountered,is asked to the user
+
